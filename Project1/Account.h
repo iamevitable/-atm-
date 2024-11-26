@@ -42,13 +42,10 @@ public:
     void setBalance(double newBal);
     //设置状态
     void setState(int newSt);
-
     // 存款函数
     bool deposit(double amount);
-
     // 取款函数
     bool withdraw(double amount);
-    //double predictBal(string id);
 private:
     void updateBalance(double newBalance);
 

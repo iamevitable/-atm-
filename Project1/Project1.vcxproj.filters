@@ -41,9 +41,6 @@
     <ClInclude Include="Account.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="VigenereCipher.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="FileHandler.h">
       <Filter>头文件</Filter>
     </ClInclude>
